@@ -1,0 +1,17 @@
+---
+Title: Wiener Übereinkommen über diplomatische Beziehungen
+jurabk: DiplBezÜbk
+layout: default
+origslug: BJNR209580964
+slug: diplbezuebk
+
+---
+
+# Wiener Übereinkommen über diplomatische Beziehungen (DiplBezÜbk)
+
+Ausfertigungsdatum
+:   1961-04-18
+
+Fundstelle
+:   BGBl II: 1964, 958
+

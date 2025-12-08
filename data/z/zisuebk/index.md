@@ -1,0 +1,18 @@
+---
+Title: Übereinkommen auf Grund von Artikel K.3 des Vertrags über die Europäische Union
+  über den Einsatz der Informationstechnologie im Zollbereich
+jurabk: ZISÜbk
+layout: default
+origslug: BJNR038820004
+slug: zisuebk
+
+---
+
+# Übereinkommen auf Grund von Artikel K.3 des Vertrags über die Europäische Union über den Einsatz der Informationstechnologie im Zollbereich (ZISÜbk)
+
+Ausfertigungsdatum
+:   1995-07-26
+
+Fundstelle
+:   BGBl II: 2004, 388
+
